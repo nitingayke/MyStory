@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-import Navbar from "./Shared/Navbar";
-import HomePage from "./HomePage/HomePage";
-import Footer from "./Shared/Footer";
+import Navbar from "./shared/Navbar";
+import HomePage from "./homePage/HomePage";
+import Footer from "./shared/Footer";
 
 export default function App() {
   return (
@@ -18,7 +18,7 @@ export default function App() {
 
         </Routes>
       </div>
-      
+
       <Footer />
 
     </Router>

@@ -20,7 +20,7 @@ const Footer = () => {
                     )}
                 </div>
 
-                <div className="flex flex-wrap justify-center items-center space-x-2 mb-4">
+                <div className="flex flex-wrap justify-center items-center space-x-4 mb-4">
                     <a
                         href="#facebook"
                         className="text-gray-400 hover:text-white transition"
