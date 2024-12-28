@@ -108,7 +108,7 @@ export default function HomePage() {
                 </div>
             </div>
 
-            <div className='max-w-6xl mx-auto px-3 pb-10'>
+            <div className='w-11/12 mx-auto px-3 pb-10'>
                 <h1 className='text-3xl pt-5 font-bold text-gray-400 text-center py-6' >User Feedback</h1>
                 
                 <FeedbackSlider feedbacks={feedbacks} />

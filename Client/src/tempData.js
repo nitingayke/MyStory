@@ -1210,7 +1210,7 @@ export const feedbacks = [
     {
       user: {
         username: "story_seeker",
-        image: "https://randomuser.me/api/portraits/men/1.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "The platform is visually appealing, but I’d love to see a feature for saving stories for later.",
       rating: 4,
@@ -1219,7 +1219,7 @@ export const feedbacks = [
     {
       user: {
         username: "inspired_writer",
-        image: "https://randomuser.me/api/portraits/women/1.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "The stats dashboard is impressive, but showing trending stories upfront would be even better.",
       rating: 5,
@@ -1228,7 +1228,7 @@ export const feedbacks = [
     {
       user: {
         username: "visual_critic",
-        image: "https://randomuser.me/api/portraits/men/2.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Images are inconsistent in size across cards. It’s a bit distracting on mobile devices.",
       rating: 3,
@@ -1237,7 +1237,7 @@ export const feedbacks = [
     {
       user: {
         username: "data_guru",
-        image: "https://randomuser.me/api/portraits/men/3.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Can we have a graph showing user growth or story trends over time? That’d be amazing.",
       rating: 5,
@@ -1246,7 +1246,7 @@ export const feedbacks = [
     {
       user: {
         username: "anonymous_teller",
-        image: "https://randomuser.me/api/portraits/unknown.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "A privacy option for anonymous storytelling would encourage more users to share deeply personal stories.",
       rating: 4,
@@ -1255,7 +1255,7 @@ export const feedbacks = [
     {
       user: {
         username: "filter_fan",
-        image: "https://randomuser.me/api/portraits/women/2.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Filters for stories by tags or popularity would make navigation much easier.",
       rating: 4,
@@ -1264,7 +1264,7 @@ export const feedbacks = [
     {
       user: {
         username: "dark_mode_lover",
-        image: "https://randomuser.me/api/portraits/men/4.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Please add a dark mode! The current UI is great, but I prefer reading at night.",
       rating: 5,
@@ -1273,7 +1273,7 @@ export const feedbacks = [
     {
       user: {
         username: "avid_commenter",
-        image: "https://randomuser.me/api/portraits/women/3.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Can we have a section showing the most commented stories of the week?",
       rating: 5,
@@ -1282,7 +1282,7 @@ export const feedbacks = [
     {
       user: {
         username: "feature_suggester",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Adding reactions other than likes, like 'love' or 'inspiring,' would be great.",
       rating: 4,
@@ -1291,7 +1291,7 @@ export const feedbacks = [
     {
       user: {
         username: "mobile_user",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "The app runs well on desktop, but some text overflows on mobile screens.",
       rating: 3,
@@ -1300,7 +1300,7 @@ export const feedbacks = [
     {
       user: {
         username: "tag_enthusiast",
-        image: "https://randomuser.me/api/portraits/men/6.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "Showing story tags more prominently would help discover similar stories.",
       rating: 4,
@@ -1309,7 +1309,7 @@ export const feedbacks = [
     {
       user: {
         username: "new_user",
-        image: "https://randomuser.me/api/portraits/women/5.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "The onboarding experience is smooth, but a tutorial video would be helpful.",
       rating: 4,
@@ -1318,29 +1318,11 @@ export const feedbacks = [
     {
       user: {
         username: "motivated_reader",
-        image: "https://randomuser.me/api/portraits/men/7.jpg",
+        image: "https://cdn.pixabay.com/photo/2021/11/26/20/45/lantern-6826697_1280.jpg",
       },
       message: "I love the motivational stories. Can we get a 'Daily Motivation' section?",
       rating: 5,
       createdAt: "2024-12-23T12:00:00Z",
-    },
-    {
-      user: {
-        username: "design_lover",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
-      },
-      message: "The design is fantastic, but it’d be nice to have more personalized themes.",
-      rating: 4,
-      createdAt: "2024-12-23T09:00:00Z",
-    },
-    {
-      user: {
-        username: "speedy_user",
-        image: "https://randomuser.me/api/portraits/men/8.jpg",
-      },
-      message: "Loading speed is generally good, but some pages take a bit longer to load.",
-      rating: 3,
-      createdAt: "2024-12-23T06:45:00Z",
     },
   ];
   
