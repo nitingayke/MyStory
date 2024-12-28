@@ -13,3 +13,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.story-tag-list::-webkit-scrollbar {
+    height: 5px;
+}
+.story-tag-list::-webkit-scrollbar-thumb {
+    background-color: rgb(185, 185, 185);
+    border-radius: 4px;
+}
+.story-tag-list::-webkit-scrollbar-track {
+    background-color: #e8e8e8;
+}

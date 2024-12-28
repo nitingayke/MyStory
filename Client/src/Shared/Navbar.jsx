@@ -36,7 +36,7 @@ export default function Navbar() {
     return (
         <nav className='fixed top-0 left-0 w-full flex justify-between p-4 bg-[#11182763] text-white z-10'>
             <div>
-                <a href="/" className='text-2xl font-bold text-white' >My Story</a>
+                <a href="/" className='text-2xl font-bold text-white' >Soul Speak</a>
             </div>
             <div className='flex-wrap hidden md:flex'>
                 <div className=' flex items-center space-x-6 border-r-2 px-2 border-gray-300'>
@@ -90,6 +90,8 @@ export default function Navbar() {
                             <a onClick={()=>setOpen(false)} href="#youtube"><YouTube className='hover:text-orange-500' style={{ fontSize: "1.2rem" }} /></a>
                             <a onClick={()=>setOpen(false)} href="#github"><GitHub className='hover:text-orange-500' style={{ fontSize: "1.2rem" }} /></a>
                         </div>
+
+                        <button className='absolute z-10 top-0 right-4' onClick={()=>setOpen(false)}><Close/></button>
                     </div>
                 </Drawer>
             </div>
